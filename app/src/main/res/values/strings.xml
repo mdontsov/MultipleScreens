@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Multiple Screens</string>
+    <string name="first">First Activity</string>
+    <string name="second">Second Activity</string>
+    <string name="third">Third Activity</string>
+    <string name="fourth">Fourth Activity</string>
+    <string name="toSecond">To Second</string>
+    <string name="toThird">To Third</string>
+    <string name="toFourth">To Fourth</string>
+</resources>
